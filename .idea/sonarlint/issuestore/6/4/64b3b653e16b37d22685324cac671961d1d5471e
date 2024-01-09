@@ -1,0 +1,32 @@
+
+{
+java:S14881"eImmediately return this expression instead of assigning it to the temporary variable "newItemEntity".(‡»èÝ
+}
+java:S1488R"bImmediately return this expression instead of assigning it to the temporary variable "fileEntity".(†””æúÿÿÿÿ
+
+java:S1488g"dImmediately return this expression instead of assigning it to the temporary variable "itemEntities".(£Ïæ÷ýÿÿÿÿ
+w
+java:S1488u"aImmediately return this expression instead of assigning it to the temporary variable "imageList".(­×ý…
+€
+java:S1488‰"dImmediately return this expression instead of assigning it to the temporary variable "categoryById".(¾›ûÚþÿÿÿÿ
+p	java:S116"VRename this field "FOLDER_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çå«Óÿÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(Çå«Óÿÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ù§½»
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(®ÌŒš
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ñÄ¿Øûÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(šŽÆ
+Z
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ý¹à
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Çå«Óÿÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Çå«Óÿÿÿÿÿ
+a
+java:S18540"FRemove this useless assignment to local variable "uploadImageService".(¼Ñ•Àüÿÿÿÿ
+R
+java:S14810"7Remove this unused "uploadImageService" local variable.(¼Ñ•Àüÿÿÿÿ

@@ -1,0 +1,8 @@
+
+v
+java:S14889"`Immediately return this expression instead of assigning it to the temporary variable "resource".(êïÚŒ
+Q	java:S1258"<This block of commented-out lines of code should be removed.(µÄã¸
+S
+java:S1854O"=Remove this useless assignment to local variable "isDeleted".(ïäş
+I
+java:S1481N".Remove this unused "isDeleted" local variable.(…°Ë†ÿÿÿÿÿ
